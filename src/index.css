@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+    background-color: #f0fdf4;
+    /* Очень светлый зелёный фон (emerald-50) */
+    color: #1f2937;
+    /* Темно-серый текст для читаемости */
+}
